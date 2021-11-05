@@ -1,0 +1,53 @@
+[33mcommit 0b0ed1a0fcfe9008d5d2f774f5223036ffcb40d6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: ReaperMT <juan.villar.mt@correo.usa.edu.co>
+Date:   Thu Nov 4 21:21:01 2021 -0500
+
+    starting the repository
+
+[33mcommit e64221d02069cda88625fb01829d39e50cbadbcc[m
+Author: ReaperMT <juan.villar.mt@correo.usa.edu.co>
+Date:   Thu Nov 4 20:25:53 2021 -0500
+
+    Initial Commit created models
+
+[33mcommit 1c7eff144300b23f634c7a346d6dd3939fe92ba5[m
+Author: ReaperMT <juan.villar.mt@correo.usa.edu.co>
+Date:   Tue Nov 2 18:38:41 2021 -0500
+
+    Create message funcionality
+
+[33mcommit fc587183626d06e8ed44810b781c9bbe9f502b61[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: e394bc9 e0e088d
+Author: Diego Lopez <91922173+Dandreslopezz@users.noreply.github.com>
+Date:   Tue Nov 2 08:38:52 2021 -0500
+
+    Merge pull request #2 from Dandreslopezz/feature/Hu-Category
+    
+    Data in postman
+
+[33mcommit e0e088dd9061c4d6779baf07f243a188e2abe2a2[m[33m ([m[1;31morigin/feature/Hu-Category[m[33m)[m
+Author: Diego Lopez <diego.lopez.mt@correo.usa.edu.co>
+Date:   Tue Nov 2 08:03:18 2021 -0500
+
+    Data in postman
+
+[33mcommit e394bc93fc33915d997da5807b60f7a92530cc8c[m
+Merge: c6dd99e 399fee1
+Author: Diego Lopez <91922173+Dandreslopezz@users.noreply.github.com>
+Date:   Tue Nov 2 07:40:18 2021 -0500
+
+    Merge pull request #1 from Dandreslopezz/feature/Hu-Category
+    
+    The functionality for category is created
+
+[33mcommit 399fee1197f22264d96d415d8387b5830fb36fc3[m
+Author: Diego Lopez <diego.lopez.mt@correo.usa.edu.co>
+Date:   Mon Nov 1 20:38:13 2021 -0500
+
+    The functionality for category is created
+
+[33mcommit c6dd99e95d183311b49382995c4b4cbbe6c65bdd[m
+Author: Diego Lopez <diego.lopez.mt@correo.usa.edu.co>
+Date:   Mon Nov 1 16:09:51 2021 -0500
+
+    Initial Commit adding the project models
