@@ -18,8 +18,8 @@ public class Box implements Serializable {
     private String description;
 
     @ManyToOne
-    @JoinColumn(name = "idCategory")
-    @JsonIgnoreProperties({"boxs"})
+    @JoinColumn(name = "id")
+    @JsonIgnoreProperties({"boxes"})
     private Category category;
 
     @OneToMany(cascade = {CascadeType.PERSIST}, mappedBy = "box")

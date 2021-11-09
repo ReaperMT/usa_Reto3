@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="36310bca-f953-469a-9cd9-bf7f188f102d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Reto3Collection.postman_collection.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Reto3Collection.postman_collection.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Reto3Collection.postman_collection.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Reto3Collection.postman_collection.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +68,9 @@
       <workItem from="1636247372001" duration="3487000" />
       <workItem from="1636303653486" duration="5496000" />
       <workItem from="1636409076637" duration="6065000" />
-      <workItem from="1636417041755" duration="1061000" />
+      <workItem from="1636417041755" duration="2391000" />
+      <workItem from="1636426348788" duration="241000" />
+      <workItem from="1636426682996" duration="628000" />
     </task>
     <servers />
   </component>
