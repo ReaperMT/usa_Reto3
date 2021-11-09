@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="36310bca-f953-469a-9cd9-bf7f188f102d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Reto3Collection.postman_collection.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Reto3Collection.postman_collection.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Reto3Collection.postman_collection.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Reto3Collection.postman_collection.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +31,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -59,7 +65,12 @@
       <workItem from="1635876329731" duration="14749000" />
       <workItem from="1636073276455" duration="1750000" />
       <workItem from="1636075440134" duration="3037000" />
-      <workItem from="1636078725529" duration="2507000" />
+      <workItem from="1636078725529" duration="3192000" />
+      <workItem from="1636082041799" duration="3123000" />
+      <workItem from="1636247372001" duration="3487000" />
+      <workItem from="1636303653486" duration="5496000" />
+      <workItem from="1636409076637" duration="6065000" />
+      <workItem from="1636417041755" duration="1061000" />
     </task>
     <servers />
   </component>
